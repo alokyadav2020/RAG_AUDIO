@@ -1,0 +1,9 @@
+pypdf
+langchain_community
+langchain
+langchain-pinecone
+pinecone-notebooks
+langchain-openai
+streamlit
+PyPDF2
+pinecone
